@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0094/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋仁宗御製翊聖應感儲慶保德傳序蓋聞天心降顧邦家所以會昌靈命丕昭神道所以協贊考載籍之攸記固今古而同符矧復吾宗在于戰國基緒方始精感寔繁或山祇而見形或帝所而葉夢其來已久斯謂不誣乃有接三統而開基將隆景業冠百神而儲祐茂顯明徵奠條梅之名區號龜玉之奥主見之於翊聖應感儲慶保德真君矣太祖肇膺元歷觀德而無言太宗祗紹睿圖順期而前告若夫述玉晨之寳睠序斗極之仙階告國命之延洪示真科之祕賾洪威顯洽屏乎物魁神姦諄誨博臨揚乎天祺民祉由是靈壇爰峙徽稱斯崇欽奉於芬馨仰祈於先覺固惟九域咸被底綏豈止三秦獨增忻戴暨兹沖眇纉乃基扃仰嘉話之在人瞻至神之佑世由是載稽茂典恭益尊名以爲上帝之禎符文考之真應安可默而無述故當垂之不刊爰詔輔臣俾詮靈訓詢求斯至篇帙旋成想風烈而昭然思音徽而可覿誠足鏤之金版祕于蘭臺披封奏歸美之心願裁於序引屬一夜觀文之暇聊志於歲時題曰翊聖保德傳云爾
+  hash: sha256:2797b9299ea21bcc771ec4ae41aefd1477348eba61890c15c47e1ca0c3b570c0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0094_HFL_000-001a, image: hfl/1006/1006-004.png}
+metadata:
+  title: 翊聖保德傳
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:54:02.828660'
+  source:
+    repository: kanripo
+    path: KR5g0094/KR5g0094_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:ea87f5a9bc896f3eede6bc419eaacc4035756c590e7f4e136e10842cca3dc33d
